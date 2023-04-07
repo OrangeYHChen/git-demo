@@ -1,2 +1,3 @@
 hello git! branch test!
-hello git! branch test! -- modify xxx
+hello git! branch test! -- modify xxx yyy
+hello git! branch test! --add zzz
